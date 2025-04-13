@@ -37,10 +37,7 @@ bbc-news-text-classification-bow/
 ## 📌 Future Improvements
 
 - Try TF-IDF instead of BoW
-- Use other models like SVM or Logistic Regression
-- Visualize most frequent words per category
 
 ## 🙌 Credits
 
-Dataset by Sunil Thite on Kaggle  
 Developed by Yahan Madhuhansa
